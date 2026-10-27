@@ -1,0 +1,14 @@
+.DS_Store
+machine.local.json
+.env
+.env.*
+**/secrets/**
+**/evidence/**
+**/runs/**
+**/runtime/**
+_src/
+*.npz
+*.h5
+*.pt
+*.pth
+*.pkl
